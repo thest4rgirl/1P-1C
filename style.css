@@ -1,12 +1,27 @@
-p{
-    color:deeppink
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+
+body{ color:deeppink;
     background-color:antiquewhite;
-}
-p{
-    color:rgb(253, 111, 218)
-    Background-color:;
+    font-family: "Playwrite GB S", cursive;
 }
 
+p{
+    color:rgb(253, 111, 218)
+    background-color:antiquewhite;
+}
+
+h1{
+    text-align: center
+    font-weight:100;
+    font-size;40x
+}
+
+nav{
+    text-align:center;
+}
+
+
 a{
-    color: rgb(253, 111, 218));
+    color: rgb(253, 111, 218);
+    text-decoration:none;
 }
